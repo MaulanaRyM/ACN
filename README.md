@@ -1,5 +1,3 @@
-# ACN
-
 Command
 apt update
 apt upgrade

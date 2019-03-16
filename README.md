@@ -1,4 +1,4 @@
-Command
+Comand
 
 apt update
 

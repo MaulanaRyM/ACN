@@ -193,7 +193,7 @@ pkg install python
 pkg install php
 pip install requests
 pip install --upgrade requests
-git clone https://githun.com/KANG-NEWBIE/SpamSms
+git clone https://github.com/KANG-NEWBIE/SpamSms
 mv SpamSms $HOME
 cd $HOME/SpamSms
 chmod +x spam.py

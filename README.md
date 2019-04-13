@@ -1,4 +1,4 @@
-  FULL COMMAND
+# FULL COMMAND
 
 $apt update
 
@@ -22,7 +22,7 @@ $gem install lolcat
 
 git clone https://github.com/MaulanaRyM/ACN
 
-  Cara Pakai
+# Cara Pakai
 
 $cd ACN
 
